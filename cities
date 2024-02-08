@@ -1,0 +1,89 @@
+58,23
+ul,31.598,34.212858
+ur,31.599041,34.572875
+ll,31.263741,34.214907
+lr,31.264912,34.576818
+Umm an Nasr,31.558458580776797,34.52236960754192
+Beit Lahia,31.552225143693505,34.5118835721081
+Beit Hanoun,31.538500776013098,34.53675875036831
+Jabalya,31.52999309248658,34.47957852820942
+Gaza,31.501542334798177,34.46684270743458
+Al Zahra,31.472468740012854,34.3984289323402
+Kuba,31.488038457054312,34.46593137649211
+Al Mughraqa,31.46822339363873,34.41747737612159
+Juhor ad Dik,31.45522538484485,34.43873837587864
+Nuseirat Camp,31.449960653093164,34.392821375778915
+Bureij,31.438633143022795,34.40230237557002
+Maghazi,31.421873849866074,34.38532837525299
+Az Zawayda,31.429798707003027,34.37074193231262
+Deir al Balah,31.41709457679605,34.35085220643287
+Wadi as Salqa,31.396878720097735,34.36526793229139
+Al Qarara,31.371311088635824,34.33525993227493
+Khan Yunis,31.346199638821883,34.30399853225879
+Abasan al-Kabira,31.323125088993116,34.34402493224391
+Khuza'a,31.30702113911279,34.36004693223357
+Al Fukhkhari,31.295190417942088,34.33315193222596
+Tal as Sultan,31.309236423303652,34.241435932234985
+Al Bayuk,31.263406455818163,34.28158093220554
+Shokat as Sufi,31.250840401028128,34.26572391685325
+Al Ma'ani,31.391709032477603,34.35374841878975
+jaber,31.31,34.3
+                                                               
+Umm an Nasr,Beit Lahia
+Umm an Nasr,Beit Hanoun
+Beit Lahia,Jabalya
+Jabalya,Gaza
+Beit Hanoun,Gaza
+Gaza,Al Mughraqa
+Gaza,Kuba
+Kuba,Juhor ad Dik
+Juhor ad Dik,Nuseirat Camp
+Al Mughraqa,Nuseirat Camp
+Nuseirat Camp,Bureij
+Bureij,Az Zawayda
+Bureij,Maghazi
+Az Zawayda,Deir al Balah
+Maghazi,Deir al Balah
+Deir al Balah,Al Qarara
+Deir al Balah,Wadi as Salqa
+Al Qarara,Khan Yunis
+Wadi as Salqa,Khan Yunis
+Khan Yunis,Tal as Sultan
+Khan Yunis,Abasan al-Kabira
+Tal as Sultan,Rafah
+Abasan al-Kabira,Khuza'a
+Khuza'a,Al Fukhkhari
+Al Fukhkhari,Al Bayuk
+Rafah,Shokat as Sufi
+Al Bayuk,Shokat as Sufi
+Beit Lahia,Umm an Nasr
+Beit Hanoun,Umm an Nasr
+Jabalya,Beit Lahia
+Gaza,Jabalya
+Gaza,Beit Hanoun
+Al Mughraqa,Gaza
+Kuba,Gaza
+Juhor ad Dik,Kuba
+Nuseirat Camp,Juhor ad Dik
+Nuseirat Camp,Al Mughraqa
+Bureij,Nuseirat Camp
+Az Zawayda,Bureij
+Maghazi,Bureij
+Deir al Balah,Az Zawayda
+Deir al Balah,Maghazi
+Al Qarara,Deir al Balah
+Wadi as Salqa,Deir al Balah
+Wadi as Salqa,Al Ma'ani
+Khan Yunis,Al Qarara
+Khan Yunis,Wadi as Salqa
+Tal as Sultan,Khan Yunis
+Abasan al-Kabira,Khan Yunis
+Rafah,Tal as Sultan
+Khuza'a,Abasan al-Kabira
+Al Fukhkhari,Khuza'a
+Al Bayuk,Al Fukhkhari
+Shokat as Sufi,Rafah
+Shokat as Sufi,Al Bayuk
+yuna,yuna2
+Al Zahra,Gaza
+jaber,Khan Yunis
